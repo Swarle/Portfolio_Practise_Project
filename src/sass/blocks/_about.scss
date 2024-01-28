@@ -25,6 +25,9 @@
     &__descr{
         padding-top: 6px;
         grid-area: descr;
+        .devider{
+            margin: 0;
+        }
     }
     &__skills{
         grid-area: skills;
